@@ -5,7 +5,7 @@ def display_board(board)
   puts board
 end
 
-def
+def display_board(board)
  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
  puts board
 end
