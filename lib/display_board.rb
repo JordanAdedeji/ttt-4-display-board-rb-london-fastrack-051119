@@ -7,4 +7,5 @@ end
 
 def
  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+ puts board
 end
